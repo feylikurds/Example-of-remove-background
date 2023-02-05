@@ -3,7 +3,7 @@
 ![Screenshot](result.png)
 
 ## Downloads
-The source code can be downloaded as a Jupyter notebook or python.
+The source code can be downloaded as a Jupyter notebook or Python.
 
 ## Purpose
 To show others an example of deep-learning.

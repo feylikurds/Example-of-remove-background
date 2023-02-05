@@ -1,6 +1,6 @@
-# Example of remove background.
+# Example of remove background using deep-learning.
 
-![Screenshot](output.png)
+![Screenshot](result.png)
 
 ## Downloads
 The source code can be downloaded as a Jupyter notebook or python.
